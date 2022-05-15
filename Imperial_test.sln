@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Imperial_test", "Imperial_test.vcxproj", "{2090E4EA-CE43-4F6D-91AB-5BF679B11935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2090E4EA-CE43-4F6D-91AB-5BF679B11935}.Debug|x64.ActiveCfg = Debug|x64
+		{2090E4EA-CE43-4F6D-91AB-5BF679B11935}.Debug|x64.Build.0 = Debug|x64
+		{2090E4EA-CE43-4F6D-91AB-5BF679B11935}.Debug|x86.ActiveCfg = Debug|Win32
+		{2090E4EA-CE43-4F6D-91AB-5BF679B11935}.Debug|x86.Build.0 = Debug|Win32
+		{2090E4EA-CE43-4F6D-91AB-5BF679B11935}.Release|x64.ActiveCfg = Release|x64
+		{2090E4EA-CE43-4F6D-91AB-5BF679B11935}.Release|x64.Build.0 = Release|x64
+		{2090E4EA-CE43-4F6D-91AB-5BF679B11935}.Release|x86.ActiveCfg = Release|Win32
+		{2090E4EA-CE43-4F6D-91AB-5BF679B11935}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79111B0A-669E-4DA6-8D30-6D92F128099D}
+	EndGlobalSection
+EndGlobal
